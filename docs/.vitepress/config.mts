@@ -146,6 +146,19 @@ export default defineConfig({
           {
             text: '20. Marriage, Family & Singleness',
             link: '/issues/marriage-and-family'
+          },
+          {
+            text: '21. Death, Grief & Christian Hope',
+            link: '/issues/death-and-hope'
+          },
+          {
+            text: '22. The Unity & Division of the Church',
+            link: '/issues/church-unity'
+          },
+          { text: '23. Science, Faith & Wonder', link: '/issues/science-and-faith' },
+          {
+            text: '24. Worship, Formation & the Consumer Church',
+            link: '/issues/worship-and-formation'
           }
         ]
       },

@@ -77,6 +77,12 @@ civil government and the major institutions of society. Distinct from the
 biblical creation mandate and critiqued in
 [Nationalism, Kingdom & Dominion](/issues/nationalism-kingdom-dominion).
 
+## Ecumenism
+
+The pursuit of greater unity and cooperation among Christian churches and
+traditions, ideally in both truth and love. See
+[The Unity & Division of the Church](/issues/church-unity).
+
 ## Eschatology
 
 The study of "last things" — Christ's return, resurrection, judgment, and the
@@ -89,6 +95,12 @@ The intentional ending of a person's life to relieve suffering (and *assisted
 suicide*, helping someone end their own life). Distinguished from allowing a
 natural death by declining futile treatment. See
 [Life & Death](/issues/life-and-death).
+
+## Formation
+
+The lifelong shaping of a person's loves and character — toward Christ through
+worship and practice, or by the culture's "liturgies" by default. See
+[Worship, Formation & the Consumer Church](/issues/worship-and-formation).
 
 ## Freedom of conscience
 
@@ -132,6 +144,12 @@ and judges every nation and cannot be identified with any human power. See
 Honest grief and complaint brought to God — modeled in roughly a third of the
 Psalms and on Jesus' lips at the cross. A faithful way to be truthful about pain.
 See [Suffering, Mental Health & Lament](/issues/suffering).
+
+## Liturgy
+
+The pattern or form of worship; more broadly, any repeated practice that shapes
+what we love — including the secular "liturgies" of screen and store. See
+[Worship, Formation & the Consumer Church](/issues/worship-and-formation).
 
 ## Mammon
 
@@ -203,6 +221,12 @@ The restoration of broken relationship — between God and humanity, and between
 estranged people — which the New Testament entrusts to the Church as a "ministry
 of reconciliation." See [The Neighbor](/issues/neighbor).
 
+## Resurrection
+
+The bodily raising of the dead to new life — Christ's own as the firstfruits, and
+the future hope of all who are his, in a renewed creation. See
+[Death, Grief & Christian Hope](/issues/death-and-hope).
+
 ## Safeguarding
 
 The concrete practices — training, screening, transparent reporting, and care for
@@ -220,6 +244,18 @@ See [Creation, Stewardship & Dominion](/issues/creation-care).
 
 The conviction that every human life bears God's image and inviolable dignity
 from conception to natural death. See [Life & Death](/issues/life-and-death).
+
+## Schism
+
+A formal split in the Church over matters that do not warrant it — distinguished
+from the healthy diversity of the one body. See
+[The Unity & Division of the Church](/issues/church-unity).
+
+## Scientism
+
+The philosophical claim that science is the only path to real knowledge — itself
+a faith-claim science cannot prove, and distinct from science itself. See
+[Science, Faith & Wonder](/issues/science-and-faith).
 
 ## Solidarity
 

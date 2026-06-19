@@ -157,8 +157,7 @@ wounded in the same breath.
 
 ## Go deeper
 
-- **Read next:** Return to [The Declaration](/declaration), or revisit any
-  chapter — and track your progress on the [home page](/).
+- **Read next:** [Death, Grief & Christian Hope](/issues/death-and-hope).
 - **Connect back:** This chapter shares ground with
   [Sexuality, Marriage & the Body](/issues/sexuality) and the
   [protection of children](/issues/childrens-rights).

@@ -91,6 +91,22 @@ const chapters = [
     id: 'marriage-and-family',
     title: 'Marriage, Family & Singleness',
     link: '/issues/marriage-and-family'
+  },
+  {
+    id: 'death-and-hope',
+    title: 'Death, Grief & Christian Hope',
+    link: '/issues/death-and-hope'
+  },
+  {
+    id: 'church-unity',
+    title: 'The Unity & Division of the Church',
+    link: '/issues/church-unity'
+  },
+  { id: 'science-and-faith', title: 'Science, Faith & Wonder', link: '/issues/science-and-faith' },
+  {
+    id: 'worship-and-formation',
+    title: 'Worship, Formation & the Consumer Church',
+    link: '/issues/worship-and-formation'
   }
 ]
 
