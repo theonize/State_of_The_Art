@@ -28,7 +28,7 @@ a dignity that is given by God, not granted by the state, earned by achievement,
 or forfeited by weakness, sin, age, ability, or usefulness. This dignity belongs
 equally to all — and we will defend it especially where the world denies it.
 
-<Scripture ref="Genesis 1:26-27" /> <Scripture ref="Genesis 9:6" />
+<Scripture passage="Genesis 1:26-27" /> <Scripture passage="Genesis 9:6" />
 
 </Declaration>
 
@@ -51,24 +51,24 @@ build and no government can take away.
 The image of God is announced at creation as the crown of God's work and the
 shared inheritance of every person — "male and female."
 
-<Scripture ref="Genesis 1:26-27" />
+<Scripture passage="Genesis 1:26-27" />
 
 It grounds the gravest moral prohibitions: because humans bear God's image,
 murder is an assault on God himself, and even the careless curse contradicts the
 blessing we owe one another.
 
-<Scripture ref="Genesis 9:6" /> <Scripture ref="James 3:9-10" />
+<Scripture passage="Genesis 9:6" /> <Scripture passage="James 3:9-10" />
 
 Sin has **defaced** the image but not erased it. The good news is that Christ is
 the perfect image of God, and in him the image in us is being **restored**.
 
-<Scripture ref="Colossians 1:15" /> <Scripture ref="2 Corinthians 3:18" />
+<Scripture passage="Colossians 1:15" /> <Scripture passage="2 Corinthians 3:18" />
 
 This is why Scripture ties our worship of God directly to our treatment of
 people: you cannot honor the God whose image your neighbor bears while
 despising your neighbor.
 
-<Scripture ref="1 John 4:20" />
+<Scripture passage="1 John 4:20" />
 
 ## Discern
 
@@ -129,7 +129,7 @@ achieved — which is precisely why the weakest are fully our equals.
 Creator, not earned by ability, awareness, or usefulness. Any view that makes
 dignity depend on present capacity ends by demoting the weakest among us —
 exactly the people Scripture commands us to protect most fiercely
-(<Scripture ref="Psalm 139:13-16" />).
+(<Scripture passage="Psalm 139:13-16" />).
 
 </SelfCheck>
 
@@ -137,7 +137,7 @@ exactly the people Scripture commands us to protect most fiercely
 
 Scripture binds them together: to honor God is to honor the image-bearers he
 made, and to despise people is to despise their Maker. "Whoever claims to love
-God yet hates a brother or sister is a liar" (<Scripture ref="1 John 4:20" />).
+God yet hates a brother or sister is a liar" (<Scripture passage="1 John 4:20" />).
 Right belief about God's image *must* show up in how we treat people.
 
 </SelfCheck>

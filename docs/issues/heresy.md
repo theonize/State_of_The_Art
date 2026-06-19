@@ -37,7 +37,7 @@ this faith** clearly and to do so **in love**, refusing both a careless
 indifference to truth and a cruel, prideful heresy-hunting that wounds Christ's
 body.
 
-<Scripture ref="Jude 1:3" /> <Scripture ref="Ephesians 4:15" />
+<Scripture passage="Jude 1:3" /> <Scripture passage="Ephesians 4:15" />
 
 </Declaration>
 
@@ -61,24 +61,24 @@ together with love, is the work of this chapter.
 The faith has a definite content worth defending — it was "once for all"
 entrusted to the saints.
 
-<Scripture ref="Jude 1:3" />
+<Scripture passage="Jude 1:3" />
 
 The earliest Christians devoted themselves to **the apostles' teaching**, and the
 New Testament repeatedly warns that false teaching which denies Christ is
 deadly, not trivial.
 
-<Scripture ref="Acts 2:42" /> <Scripture ref="2 Peter 2:1" /> <Scripture ref="1 John 4:1-3" />
+<Scripture passage="Acts 2:42" /> <Scripture passage="2 Peter 2:1" /> <Scripture passage="1 John 4:1-3" />
 
 Yet on genuinely disputable matters — diet, days, secondary practices — Paul
 forbids us to despise or condemn one another, commanding humility and patience.
 
-<Scripture ref="Romans 14:1-12" />
+<Scripture passage="Romans 14:1-12" />
 
 And the *manner* of contending is not optional. We are to speak the truth **in
 love**, correct opponents gently, and restore the erring with humility, watching
 our own hearts.
 
-<Scripture ref="Ephesians 4:15" /> <Scripture ref="2 Timothy 2:24-26" /> <Scripture ref="Galatians 6:1" />
+<Scripture passage="Ephesians 4:15" /> <Scripture passage="2 Timothy 2:24-26" /> <Scripture passage="Galatians 6:1" />
 
 ## Orthodoxy: the rule of faith
 
@@ -129,10 +129,10 @@ not become endless avoidance of necessary clarity.
 
 ::: warning Two failures to avoid
 **Indifference** says, "It doesn't matter what you believe." Scripture says it
-matters eternally (<Scripture ref="1 John 4:1-3" />).
+matters eternally (<Scripture passage="1 John 4:1-3" />).
 **Heresy-hunting** says, "Anyone who disagrees with me is a false teacher." Scripture
 says to correct gently, in love, longing for restoration
-(<Scripture ref="2 Timothy 2:24-26" />). Faithfulness walks between them: firm
+(<Scripture passage="2 Timothy 2:24-26" />). Faithfulness walks between them: firm
 on the gospel, gracious with one another.
 :::
 
@@ -156,7 +156,7 @@ on the gospel, gracious with one another.
 the full deity and humanity of Christ, his bodily resurrection, salvation by
 grace. **Disagreement** concerns disputable matters Scripture does not make
 essential (church government, end-times timing, baptism modes), where Paul
-commands mutual forbearance (<Scripture ref="Romans 14:1-12" />). Treating
+commands mutual forbearance (<Scripture passage="Romans 14:1-12" />). Treating
 every disagreement as heresy fractures the body; treating heresy as mere
 disagreement abandons the gospel.
 
@@ -165,9 +165,9 @@ disagreement abandons the gospel.
 <SelfCheck q="According to Scripture, how should we correct someone we believe is in serious error?">
 
 Gently, humbly, and in love — speaking "the truth in love"
-(<Scripture ref="Ephesians 4:15" />), correcting "with gentleness" in hope of
-their restoration (<Scripture ref="2 Timothy 2:24-26" />), watching our own
-hearts as we go (<Scripture ref="Galatians 6:1" />). The goal is to **win a
+(<Scripture passage="Ephesians 4:15" />), correcting "with gentleness" in hope of
+their restoration (<Scripture passage="2 Timothy 2:24-26" />), watching our own
+hearts as we go (<Scripture passage="Galatians 6:1" />). The goal is to **win a
 brother or sister**, not a fight — while still being clear about the truth.
 
 </SelfCheck>

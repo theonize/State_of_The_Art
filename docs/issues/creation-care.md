@@ -29,7 +29,7 @@ account. We renounce the greed and carelessness that ravage God's world and harm
 our neighbors — especially the poor, who suffer environmental harm first and
 worst — and we commit to tend creation as those who love its Creator.
 
-<Scripture ref="Psalm 24:1" /> <Scripture ref="Genesis 2:15" />
+<Scripture passage="Psalm 24:1" /> <Scripture passage="Genesis 2:15" />
 
 </Declaration>
 
@@ -53,13 +53,13 @@ both to bow down to creation and to trash it.
 Creation is not an accident or a mere stage; it is God's good work, and it
 belongs to him.
 
-<Scripture ref="Genesis 1:31" /> <Scripture ref="Psalm 24:1" />
+<Scripture passage="Genesis 1:31" /> <Scripture passage="Psalm 24:1" />
 
 The "dominion" of Genesis 1 is immediately defined by Genesis 2 as service and
 protection — the Hebrew words mean to *serve/work* and to *keep/guard*.
 
-<Scripture ref="Genesis 1:28" />
-<Scripture ref="Genesis 2:15">
+<Scripture passage="Genesis 1:28" />
+<Scripture passage="Genesis 2:15">
 The LORD God took the man and put him in the Garden of Eden to work it and take
 care of it.
 </Scripture>
@@ -67,12 +67,12 @@ care of it.
 God's care extends to creatures and the land itself — even commanding rest for
 the soil, and delighting in a world far beyond human usefulness.
 
-<Scripture ref="Leviticus 25:1-7" /> <Scripture ref="Job 38-39" /> <Scripture ref="Matthew 6:26" />
+<Scripture passage="Leviticus 25:1-7" /> <Scripture passage="Job 38-39" /> <Scripture passage="Matthew 6:26" />
 
 And the scope of redemption is cosmic: creation groans for liberation, and in
 Christ God is reconciling "all things" to himself.
 
-<Scripture ref="Romans 8:19-22" /> <Scripture ref="Colossians 1:19-20" />
+<Scripture passage="Romans 8:19-22" /> <Scripture passage="Colossians 1:19-20" />
 
 ## Discern
 
@@ -132,7 +132,7 @@ dump. It is God's good gift, entrusted to our care, for which we answer to him.
 No. Genesis 1:28's "dominion" is defined by Genesis 2:15 — to "work it and take
 care of it" (literally, to *serve* and *keep* it). Human rule is meant to image
 God's own generous, life-giving rule, exercised as stewardship for which we
-give an account. "The earth is the LORD's" (<Scripture ref="Psalm 24:1" />); we
+give an account. "The earth is the LORD's" (<Scripture passage="Psalm 24:1" />); we
 are caretakers, not owners.
 
 </SelfCheck>
@@ -143,7 +143,7 @@ are caretakers, not owners.
 — and **idolatry** — treating nature itself as divine and worshiping it. The
 biblical path is stewardship: loving and caring for creation *because* we love
 its Creator, neither trashing it nor bowing to it
-(<Scripture ref="Romans 1:25" />).
+(<Scripture passage="Romans 1:25" />).
 
 </SelfCheck>
 

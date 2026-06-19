@@ -29,7 +29,7 @@ It cannot be built by human power or identified with any nation, party, or
 program — and it cannot be stopped. We seek it first, and we order every other
 loyalty beneath it.
 
-<Scripture ref="Matthew 6:33" /> <Scripture ref="Luke 17:20-21" />
+<Scripture passage="Matthew 6:33" /> <Scripture passage="Luke 17:20-21" />
 
 </Declaration>
 
@@ -53,7 +53,7 @@ The Kingdom was Jesus' central message — mentioned more than any other theme i
 the Gospels. He taught it in parables, demonstrated it in healings, and embodied
 it in a cross.
 
-<Scripture ref="Mark 1:14-15">
+<Scripture passage="Mark 1:14-15">
 Jesus went into Galilee, proclaiming the good news of God. "The time has come,"
 he said. "The kingdom of God has come near. Repent and believe the good news!"
 </Scripture>
@@ -62,17 +62,17 @@ The **Sermon on the Mount** is the constitution of this Kingdom. Its citizens
 are the poor in spirit, the meek, the merciful, the peacemakers — the very
 people the world overlooks.
 
-<Scripture ref="Matthew 5:3-10" />
+<Scripture passage="Matthew 5:3-10" />
 
 The Kingdom grows not by force but like seed and yeast — small, hidden, and
 unstoppable.
 
-<Scripture ref="Matthew 13:31-33" />
+<Scripture passage="Matthew 13:31-33" />
 
 And it turns the world's idea of greatness upside down: in this Kingdom, the
 way up is down, and the King himself washes feet and dies for his subjects.
 
-<Scripture ref="Mark 10:42-45" />
+<Scripture passage="Mark 10:42-45" />
 
 This is why the Kingdom both comforts and unsettles. It comforts the lowly with
 dignity and hope. It unsettles the powerful — including powerful Christians — by
@@ -133,7 +133,7 @@ Because the Kingdom is **God's reign**, inaugurated by Christ and consummated at
 his return — not a human achievement. Nations and parties rise, fall, and sin;
 the Kingdom judges them all. To equate the Kingdom with any of them is to make an
 idol of a good thing and to give to Caesar what belongs to God alone
-(<Scripture ref="Mark 12:17" />).
+(<Scripture passage="Mark 12:17" />).
 
 </SelfCheck>
 

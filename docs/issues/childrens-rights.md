@@ -30,7 +30,7 @@ come to Christ. We renounce every abuse, neglect, exploitation, and cover-up,
 **especially within the Church**, and we commit to put the safety of children
 above the reputation of any institution.
 
-<Scripture ref="Matthew 18:5-6" /> <Scripture ref="Psalm 127:3" />
+<Scripture passage="Matthew 18:5-6" /> <Scripture passage="Psalm 127:3" />
 
 </Declaration>
 
@@ -56,7 +56,7 @@ will not protect children has not understood its Lord.
 Jesus did not merely tolerate children; he made them a picture of the Kingdom
 and a test of true greatness.
 
-<Scripture ref="Matthew 18:1-6">
+<Scripture passage="Matthew 18:1-6">
 …He called a little child to him, and placed the child among them. And he said,
 "Truly I tell you, unless you change and become like little children, you will
 never enter the kingdom of heaven…" "If anyone causes one of these little ones
@@ -67,17 +67,17 @@ their neck and to be drowned in the depths of the sea."
 To welcome a child, Jesus says, is to welcome him — and to harm one invites the
 severest judgment he ever pronounced.
 
-<Scripture ref="Mark 9:36-37" />
+<Scripture passage="Mark 9:36-37" />
 
 Children are a gift and a heritage, to be raised with both instruction and
 gentleness — never exasperated or crushed.
 
-<Scripture ref="Psalm 127:3-5" /> <Scripture ref="Ephesians 6:4" />
+<Scripture passage="Psalm 127:3-5" /> <Scripture passage="Ephesians 6:4" />
 
 And the care of orphans stands at the very center of "pure and faultless"
 religion.
 
-<Scripture ref="James 1:27" /> <Scripture ref="Psalm 68:5" />
+<Scripture passage="James 1:27" /> <Scripture passage="Psalm 68:5" />
 
 ## Discern
 
@@ -114,7 +114,7 @@ maturity and never used to burden children with adult decisions.
 ::: warning Where there is no debate
 On one point Scripture allows no balancing act: the **abuse of a child is
 always evil**, and protecting an abuser or an institution at a child's expense
-is a betrayal of Christ himself (<Scripture ref="Matthew 18:6" />). If you
+is a betrayal of Christ himself (<Scripture passage="Matthew 18:6" />). If you
 suspect a child is being harmed, the faithful response is to report it to the
 proper authorities — not to handle it quietly "in house."
 :::
@@ -138,7 +138,7 @@ proper authorities — not to handle it quietly "in house."
 Because children are precious to God and utterly vulnerable. To cause a "little
 one" to stumble is to assault someone who bears God's image and cannot defend
 themselves — so Jesus says it would be better to be drowned with a millstone
-than to do it (<Scripture ref="Matthew 18:6" />). This is why protecting
+than to do it (<Scripture passage="Matthew 18:6" />). This is why protecting
 children outranks protecting any reputation or institution.
 
 </SelfCheck>
@@ -148,7 +148,7 @@ children outranks protecting any reputation or institution.
 The child's **safety and dignity**. God entrusts children to parents and
 communities for their flourishing, not their harm. Authority that abuses or
 neglects a child, or that conceals abuse, has forfeited its claim and must be
-confronted and reported (<Scripture ref="Ephesians 6:4" />).
+confronted and reported (<Scripture passage="Ephesians 6:4" />).
 
 </SelfCheck>
 

@@ -47,7 +47,7 @@ and the love of one's home, **and** we renounce the idolatry that wraps the
 cross in a flag, baptizes a nation's sins as holy, or defines God's people by
 blood, soil, or citizenship rather than by faith in Christ.
 
-<Scripture ref="John 18:36" /> <Scripture ref="Galatians 3:28" />
+<Scripture passage="John 18:36" /> <Scripture passage="Galatians 3:28" />
 
 </Declaration>
 
@@ -58,7 +58,7 @@ creation as servants under God — not a mandate to dominate other people or to
 seize the levers of civil power for the Church. The Kingdom advances by the
 cross and the Spirit, not by coercion.
 
-<Scripture ref="Genesis 1:28" /> <Scripture ref="Mark 10:42-45" />
+<Scripture passage="Genesis 1:28" /> <Scripture passage="Mark 10:42-45" />
 
 </Declaration>
 
@@ -88,29 +88,29 @@ will let us rest in neither error.
 Jesus was offered the kingdoms of the world and the way of political power — and
 he refused both.
 
-<Scripture ref="Matthew 4:8-10" /> <Scripture ref="John 18:36" />
+<Scripture passage="Matthew 4:8-10" /> <Scripture passage="John 18:36" />
 
 He taught a dual but unequal loyalty: give the state its due, but give God what
 belongs to God — and *we* belong to God.
 
-<Scripture ref="Mark 12:13-17" />
+<Scripture passage="Mark 12:13-17" />
 
 The Church's true citizenship is in heaven, and it is one new people drawn from
 every nation — so no nation can claim to be God's nation now.
 
-<Scripture ref="Philippians 3:20" /> <Scripture ref="Revelation 7:9-10" />
+<Scripture passage="Philippians 3:20" /> <Scripture passage="Revelation 7:9-10" />
 
 Yet Scripture also tells exiles to *seek the welfare* of the city where God has
 placed them, and to honor governing authorities — while obeying God first when
 the two conflict.
 
-<Scripture ref="Jeremiah 29:7" /> <Scripture ref="Romans 13:1-7" /> <Scripture ref="Acts 5:29" />
+<Scripture passage="Jeremiah 29:7" /> <Scripture passage="Romans 13:1-7" /> <Scripture passage="Acts 5:29" />
 
 And the book of Revelation unmasks every empire that demands worship — calling
 it "Babylon" — and summons God's people to faithful, non-violent witness rather
 than to seize the beast's power for themselves.
 
-<Scripture ref="Revelation 13:1-10" />
+<Scripture passage="Revelation 13:1-10" />
 
 ## Discern
 
@@ -182,7 +182,7 @@ loving your family — held under God and open to self-criticism.
 favored religious-ethnic group within it) an object of *ultimate* loyalty,
 fusing faith and national identity and defining "us" against "them." The first
 can be healthy; the second competes with the lordship of Christ
-(<Scripture ref="John 18:36" />).
+(<Scripture passage="John 18:36" />).
 
 </SelfCheck>
 
@@ -193,7 +193,7 @@ The **dominion** of Genesis 1 is a call to *steward* creation as God's servants
 **Dominionism** is a modern political project of seizing control of government
 and culture for the Church. But Jesus refused worldly power and rules by the
 cross; his Kingdom advances through the Spirit and self-giving love, "not by
-might nor by power" (<Scripture ref="Zechariah 4:6" />), not by coercion.
+might nor by power" (<Scripture passage="Zechariah 4:6" />), not by coercion.
 
 </SelfCheck>
 

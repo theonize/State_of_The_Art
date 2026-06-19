@@ -29,7 +29,7 @@ partisans**: in love, by honest means, without slander or violence, refusing to
 trade the gospel for political access or to bless any party as the Kingdom of
 God.
 
-<Scripture ref="Isaiah 1:17" /> <Scripture ref="Luke 4:18-19" />
+<Scripture passage="Isaiah 1:17" /> <Scripture passage="Luke 4:18-19" />
 
 </Declaration>
 
@@ -51,7 +51,7 @@ of the most urgent tasks of our moment.
 
 God's heart for justice runs from Law to Prophets to the lips of Jesus himself.
 
-<Scripture ref="Isaiah 1:17">
+<Scripture passage="Isaiah 1:17">
 Learn to do right; seek justice. Defend the oppressed. Take up the cause of the
 fatherless; plead the case of the widow.
 </Scripture>
@@ -59,30 +59,30 @@ fatherless; plead the case of the widow.
 Jesus opened his public ministry by claiming the prophet Isaiah's agenda of good
 news to the poor and freedom for the oppressed.
 
-<Scripture ref="Luke 4:18-19" />
+<Scripture passage="Luke 4:18-19" />
 
 The prophets confronted the powerful without fear — Nathan to David, Amos to a
 comfortable nation — and they insisted that worship without justice is offensive
 to God.
 
-<Scripture ref="2 Samuel 12:1-7" /> <Scripture ref="Amos 5:24" />
+<Scripture passage="2 Samuel 12:1-7" /> <Scripture passage="Amos 5:24" />
 
 We are told plainly to speak up — and the summary of true religion is justice,
 mercy, and humility before God.
 
-<Scripture ref="Proverbs 31:8-9" /> <Scripture ref="Micah 6:8" />
+<Scripture passage="Proverbs 31:8-9" /> <Scripture passage="Micah 6:8" />
 
 Yet the *means* must match the message: our weapons are not the world's, and we
 speak the truth in love.
 
-<Scripture ref="2 Corinthians 10:3-5" /> <Scripture ref="Ephesians 4:15" />
+<Scripture passage="2 Corinthians 10:3-5" /> <Scripture passage="Ephesians 4:15" />
 
 ## The many forms of witness
 
 Advocacy is far wider than protest or politics. Faithful public witness includes:
 
 - **Prayer** — interceding for rulers, the suffering, and the city
-  (<Scripture ref="1 Timothy 2:1-2" />).
+  (<Scripture passage="1 Timothy 2:1-2" />).
 - **Proclamation** — naming injustice and announcing the gospel that heals it.
 - **Presence** — showing up with and for the vulnerable, not just speaking about
   them.
@@ -149,14 +149,14 @@ Biblical advocacy is **claimed by God, not by a party**. Like the prophets, it i
 free to confront every side, refuses to bless a faction's sins, pursues justice
 *and* mercy, and uses honest, loving, non-violent means. Partisan activism, by
 contrast, defends one team and attacks the other regardless of truth. The test:
-*would I say it if my own side did it?* (<Scripture ref="Amos 5:24" />).
+*would I say it if my own side did it?* (<Scripture passage="Amos 5:24" />).
 
 </SelfCheck>
 
 <SelfCheck q="Is staying silent on injustice a 'neutral' or safe option for the Church?">
 
 No. Scripture commands God's people to "speak up" and "seek justice"
-(<Scripture ref="Proverbs 31:8-9" />, <Scripture ref="Isaiah 1:17" />). Silence
+(<Scripture passage="Proverbs 31:8-9" />, <Scripture passage="Isaiah 1:17" />). Silence
 in the face of clear oppression is not neutrality; it sides with the
 oppressor. The danger of partisanship does not excuse the sin of apathy.
 

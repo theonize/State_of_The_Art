@@ -31,7 +31,7 @@ inviolable dignity. We renounce all contempt, mockery, violence, and
 dehumanization, and we grieve the Church's failures to love. We renounce, too,
 the culture's idolatry of sex and its reduction of persons to their desires.
 
-<Scripture ref="Genesis 1:27" /> <Scripture ref="Galatians 3:28" />
+<Scripture passage="Genesis 1:27" /> <Scripture passage="Galatians 3:28" />
 
 </Declaration>
 
@@ -44,7 +44,7 @@ self-giving love, never in exploitation or domination. And we honor
 **singleness and celibacy** as a full and faithful way of following Jesus — who
 was himself single — not a second-class life.
 
-<Scripture ref="1 Corinthians 6:19-20" /> <Scripture ref="1 Corinthians 7:7-8" />
+<Scripture passage="1 Corinthians 6:19-20" /> <Scripture passage="1 Corinthians 7:7-8" />
 
 </Declaration>
 
@@ -70,28 +70,28 @@ involved are image-bearers to be loved, not enemies to be defeated.
 Our bodies are not our own to do with as we please; they belong to God and are
 temples of his Spirit.
 
-<Scripture ref="1 Corinthians 6:19-20" />
+<Scripture passage="1 Corinthians 6:19-20" />
 
 From the beginning, Scripture presents the union of man and woman in marriage as
 a creational pattern, which Jesus affirms.
 
-<Scripture ref="Genesis 2:24" /> <Scripture ref="Matthew 19:4-6" />
+<Scripture passage="Genesis 2:24" /> <Scripture passage="Matthew 19:4-6" />
 
 Singleness is held up — by Jesus and Paul — as a genuine gift and calling, not a
 deprivation, and a sign of the age to come.
 
-<Scripture ref="Matthew 19:11-12" /> <Scripture ref="1 Corinthians 7:32-35" />
+<Scripture passage="Matthew 19:11-12" /> <Scripture passage="1 Corinthians 7:32-35" />
 
 Marriage itself is finally a sign pointing beyond itself — to the love of Christ
 for his Church.
 
-<Scripture ref="Ephesians 5:31-32" />
+<Scripture passage="Ephesians 5:31-32" />
 
 And the call to sexual holiness always comes wrapped in grace: the gospel meets
 us as we are, names sin in all of us, and refuses to condemn while it calls us to
 new life.
 
-<Scripture ref="John 8:10-11" /> <Scripture ref="1 Corinthians 6:9-11" />
+<Scripture passage="John 8:10-11" /> <Scripture passage="1 Corinthians 6:9-11" />
 
 ## Discern
 
@@ -164,9 +164,9 @@ design and the person's true flourishing.
 ::: warning Where there is no debate
 However you weigh the questions above, the gospel forbids cruelty. Mockery,
 hatred, violence, and the singling out of some sins while excusing our own are
-contrary to Christ (<Scripture ref="Matthew 7:3-5" />). And on the other side,
+contrary to Christ (<Scripture passage="Matthew 7:3-5" />). And on the other side,
 "love" that flatters and never speaks truth is not the love of Christ either.
-The hard, narrow road is **grace and truth together** (<Scripture ref="John 1:14" />)
+The hard, narrow road is **grace and truth together** (<Scripture passage="John 1:14" />)
 — the road Jesus himself walked.
 :::
 
@@ -190,8 +190,8 @@ A great deal: that every person bears God's image and inviolable dignity; that
 the body is good and destined for resurrection; that sexuality is a gift to be
 lived in holiness and self-giving love, never exploitation; that singleness is a
 fully honored calling; and that cruelty, contempt, and dehumanization are sins
-the Church must renounce (<Scripture ref="Genesis 1:27" />,
-<Scripture ref="1 Corinthians 6:19-20" />). The disagreement is real, but it
+the Church must renounce (<Scripture passage="Genesis 1:27" />,
+<Scripture passage="1 Corinthians 6:19-20" />). The disagreement is real, but it
 sits within these shared commitments.
 
 </SelfCheck>
@@ -217,7 +217,7 @@ counsel, rather than weaponizing a verse or a slogan.
   vulnerable in [Power, Abuse & Accountability](/issues/power-and-abuse).
 - **Study well:** Read the strongest, most charitable representatives of *each*
   view rather than only their critics, and search the Scriptures for yourself
-  (<Scripture ref="Acts 17:11" />).
+  (<Scripture passage="Acts 17:11" />).
 - **Scripture for a week:** Matthew 19:1–12; 1 Corinthians 6–7.
 
 <ChapterComplete id="sexuality" title="Sexuality, Marriage & the Body" />

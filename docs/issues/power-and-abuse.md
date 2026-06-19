@@ -30,7 +30,7 @@ expense of the wounded. We commit to **believe and care for the abused, tell the
 truth, submit leaders to real accountability, and put the safety of the
 vulnerable above the reputation of any ministry**.
 
-<Scripture ref="Mark 10:42-45" /> <Scripture ref="Ezekiel 34:2-4" />
+<Scripture passage="Mark 10:42-45" /> <Scripture passage="Ezekiel 34:2-4" />
 
 </Declaration>
 
@@ -54,7 +54,7 @@ accountability that fallen human beings, including pastors, always need.
 
 Jesus drew a sharp line between the world's way of power and the Kingdom's.
 
-<Scripture ref="Mark 10:42-45">
+<Scripture passage="Mark 10:42-45">
 "…You know that those who are regarded as rulers of the Gentiles lord it over
 them… Not so with you. Instead, whoever wants to become great among you must be
 your servant… For even the Son of Man did not come to be served, but to serve,
@@ -64,33 +64,33 @@ and to give his life as a ransom for many."
 He embodied this by taking the slave's towel and washing his disciples' feet —
 and told them to do likewise.
 
-<Scripture ref="John 13:12-17" /> <Scripture ref="Philippians 2:5-8" />
+<Scripture passage="John 13:12-17" /> <Scripture passage="Philippians 2:5-8" />
 
 God reserves fierce judgment for **shepherds who feed themselves** and abuse the
 flock, and warns that savage "wolves" will arise even from within the leadership.
 
-<Scripture ref="Ezekiel 34:2-10" /> <Scripture ref="Acts 20:28-30" />
+<Scripture passage="Ezekiel 34:2-10" /> <Scripture passage="Acts 20:28-30" />
 
 Leaders are explicitly **not** exempt from correction: Paul rebuked Peter to his
 face, and elders who persist in sin are to be confronted, even publicly.
 
-<Scripture ref="Galatians 2:11-14" /> <Scripture ref="1 Timothy 5:19-20" />
+<Scripture passage="Galatians 2:11-14" /> <Scripture passage="1 Timothy 5:19-20" />
 
 ## What real accountability looks like
 
 Scripture and hard experience point to concrete safeguards:
 
 - **Shared leadership**, not a single unaccountable figure
-  (<Scripture ref="Acts 14:23" />, a plurality of elders).
+  (<Scripture passage="Acts 14:23" />, a plurality of elders).
 - **Transparency** in money, decisions, and discipline.
 - **Believing and caring for victims**, and reporting crimes to civil
   authorities — who "do not bear the sword for no reason"
-  (<Scripture ref="Romans 13:4" />).
+  (<Scripture passage="Romans 13:4" />).
 - **Independent investigation**, not self-investigation by the accused's friends.
 - **Consequences for leaders**, including removal, regardless of their gifting or
   success.
 - **Justice with due process** — protecting the vulnerable *and* handling
-  accusations fairly (<Scripture ref="Deuteronomy 19:15-18" />).
+  accusations fairly (<Scripture passage="Deuteronomy 19:15-18" />).
 
 ## Discern
 
@@ -123,7 +123,7 @@ outside check — often the highest-risk setting.
 ::: danger This is not only "in house"
 Abuse is frequently a **crime**, not merely a sin to be handled internally. The
 Church's duty to forgive does not cancel the state's God-given role to protect
-and to do justice (<Scripture ref="Romans 13:1-4" />). Reporting credible abuse
+and to do justice (<Scripture passage="Romans 13:1-4" />). Reporting credible abuse
 to civil authorities is not a failure of grace; it is an act of love for the
 vulnerable and of submission to a God-ordained authority.
 :::
@@ -147,7 +147,7 @@ vulnerable and of submission to a God-ordained authority.
 He inverted the world's model. Among the nations, rulers "lord it over" people;
 "not so with you" — in the Kingdom, the great one is the **servant**, following
 the Son of Man who "did not come to be served, but to serve, and to give his
-life" (<Scripture ref="Mark 10:42-45" />). Power in the Church is a trust for
+life" (<Scripture passage="Mark 10:42-45" />). Power in the Church is a trust for
 the good of others, modeled on the foot-washing, self-emptying Christ.
 
 </SelfCheck>
@@ -156,7 +156,7 @@ the good of others, modeled on the foot-washing, self-emptying Christ.
 
 No. Forgiveness concerns the heart and is not the same as removing earthly
 consequences. God gave civil authority the responsibility to protect people and
-do justice (<Scripture ref="Romans 13:1-4" />), and many abuses are crimes.
+do justice (<Scripture passage="Romans 13:1-4" />), and many abuses are crimes.
 Reporting credible abuse protects the vulnerable and honors a God-ordained
 authority; concealing it betrays both the victim and Christ.
 

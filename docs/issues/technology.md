@@ -31,7 +31,7 @@ and we renounce every use of it that deceives, dehumanizes, exploits, addicts,
 or sets itself up as a savior. We will not surrender our wisdom, our worship, or
 our neighbors to any machine.
 
-<Scripture ref="Genesis 1:27" /> <Scripture ref="Psalm 115:4-8" />
+<Scripture passage="Genesis 1:27" /> <Scripture passage="Psalm 115:4-8" />
 
 </Declaration>
 
@@ -60,27 +60,27 @@ Scripture calls that idolatry, and it has a long memory of where it leads.
 The drive to "make a name for ourselves" through our works is the old story of
 **Babel** — human ingenuity turned to pride and self-exaltation.
 
-<Scripture ref="Genesis 11:1-9" />
+<Scripture passage="Genesis 11:1-9" />
 
 We become like what we worship: idols made by human hands cannot see, hear, or
 save — and neither can those who trust them.
 
-<Scripture ref="Psalm 115:4-8" />
+<Scripture passage="Psalm 115:4-8" />
 
 Yet creativity itself is a gift; God fills artisans with skill, and the human
 calling includes cultivating the world (see [Creation Care](/issues/creation-care)).
 
-<Scripture ref="Exodus 35:30-35" />
+<Scripture passage="Exodus 35:30-35" />
 
 What endures is not technique but love; knowledge puffs up, but love builds up —
 and we are responsible for how our works affect the weak.
 
-<Scripture ref="1 Corinthians 8:1-3" /> <Scripture ref="1 Corinthians 13:1-2" />
+<Scripture passage="1 Corinthians 8:1-3" /> <Scripture passage="1 Corinthians 13:1-2" />
 
 Finally, our hope is not a self-engineered immortality but the **resurrection of
 the body** — God's gift, not our achievement.
 
-<Scripture ref="1 Corinthians 15:42-44" />
+<Scripture passage="1 Corinthians 15:42-44" />
 
 ## Discern
 
@@ -137,7 +137,7 @@ quietly train me to use people and worship the work of my own hands?*
 
 Babel is the pattern of human ingenuity turned to pride — building "to make a
 name for ourselves" rather than to serve God and neighbor
-(<Scripture ref="Genesis 11:4" />). Technology is not evil; the temptation is
+(<Scripture passage="Genesis 11:4" />). Technology is not evil; the temptation is
 *idolatry and self-exaltation* — trusting our works to save and exalt us. The
 question is always whether we wield our tools as humble image-bearers or as
 would-be gods.
@@ -151,7 +151,7 @@ machines, data, or problems to optimize, and not raw material to be re-engineere
 at will. That dignity sets limits: technology must serve persons (especially the
 weak), never deceive or exploit them, and never be trusted as the savior that
 perfects or transcends our God-given humanity. Our hope is the resurrection,
-not self-made immortality (<Scripture ref="1 Corinthians 15:42-44" />).
+not self-made immortality (<Scripture passage="1 Corinthians 15:42-44" />).
 
 </SelfCheck>
 

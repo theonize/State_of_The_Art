@@ -38,7 +38,7 @@ nation, government, and power. No president, party, market, or movement holds
 the allegiance that belongs to him alone. We renounce every idolatry that would
 put another name above the name of Jesus.
 
-<Scripture ref="Philippians 2:9-11" /> <Scripture ref="Colossians 1:15-20" />
+<Scripture passage="Philippians 2:9-11" /> <Scripture passage="Colossians 1:15-20" />
 
 </Declaration>
 
@@ -49,7 +49,7 @@ trustworthy for faith and life, read within the community of the faithful and
 illumined by the Spirit. We refuse to bend the text to our politics, and we
 refuse to silence it where it judges us.
 
-<Scripture ref="2 Timothy 3:16-17" /> <Scripture ref="Psalm 119:105" />
+<Scripture passage="2 Timothy 3:16-17" /> <Scripture passage="Psalm 119:105" />
 
 </Declaration>
 
@@ -61,7 +61,7 @@ agree with us and those who do not. Human dignity is not earned, granted by the
 state, or forfeited by weakness. It is given by God and may not be revoked by
 us.
 
-<Scripture ref="Genesis 1:27" /> <Scripture ref="James 3:9" />
+<Scripture passage="Genesis 1:27" /> <Scripture passage="James 3:9" />
 
 </Declaration>
 
@@ -72,7 +72,7 @@ identical with any nation or empire; it transcends and judges them all. We are
 citizens of heaven before we are citizens of any country, and we hold our
 earthly loyalties loosely and our heavenly loyalty without compromise.
 
-<Scripture ref="Matthew 6:33" /> <Scripture ref="Philippians 3:20" />
+<Scripture passage="Matthew 6:33" /> <Scripture passage="Philippians 3:20" />
 
 </Declaration>
 
@@ -84,7 +84,7 @@ and every leader, that sacrifices the vulnerable for power, profit, or
 reputation. How a community treats its weakest members is the truest measure of
 its righteousness before God.
 
-<Scripture ref="Matthew 25:40" /> <Scripture ref="Isaiah 1:17" />
+<Scripture passage="Matthew 25:40" /> <Scripture passage="Isaiah 1:17" />
 
 </Declaration>
 
@@ -95,7 +95,7 @@ borrowed from left or right, but as obedience to God. We reject both a justice
 without mercy and a mercy that excuses injustice. We will speak for those who
 have no voice, and we will examine our own hands before we point at others.
 
-<Scripture ref="Micah 6:8" /> <Scripture ref="Amos 5:24" />
+<Scripture passage="Micah 6:8" /> <Scripture passage="Amos 5:24" />
 
 </Declaration>
 
@@ -106,7 +106,7 @@ where it denies the gospel — and we will do so in love, without slander,
 caricature, or cruelty. We refuse to call heresy what is merely disagreement,
 and we refuse to call faithful what in fact denies Christ.
 
-<Scripture ref="Ephesians 4:15" /> <Scripture ref="Jude 1:3" />
+<Scripture passage="Ephesians 4:15" /> <Scripture passage="Jude 1:3" />
 
 </Declaration>
 
@@ -117,7 +117,7 @@ as owners or destroyers. Dominion is responsibility, not exploitation. We will
 not trade the inheritance of generations to come for the comfort or greed of
 the present.
 
-<Scripture ref="Genesis 2:15" /> <Scripture ref="Psalm 24:1" />
+<Scripture passage="Genesis 2:15" /> <Scripture passage="Psalm 24:1" />
 
 </Declaration>
 
@@ -128,7 +128,7 @@ those who curse us. We renounce contempt, dehumanization, and violence of speech
 and hand. The world will know we belong to Christ by our love — not by our
 victories.
 
-<Scripture ref="Matthew 5:44" /> <Scripture ref="John 13:35" />
+<Scripture passage="Matthew 5:44" /> <Scripture passage="John 13:35" />
 
 </Declaration>
 
@@ -139,7 +139,7 @@ On the essentials, unity; in the disputable, liberty; in all things, charity. We
 confess that we see in part, and we welcome correction from Scripture and from
 the wider Church.
 
-<Scripture ref="Romans 14:1-12" /> <Scripture ref="1 Corinthians 13:12" />
+<Scripture passage="Romans 14:1-12" /> <Scripture passage="1 Corinthians 13:12" />
 
 </Declaration>
 
@@ -149,7 +149,7 @@ We do not despair. Christ is risen; the grave is empty; the verdict of history
 belongs to God. We labor not to save the world by our own strength but to bear
 faithful witness until the King returns to make all things new.
 
-<Scripture ref="Revelation 21:5" /> <Scripture ref="Romans 8:18-25" />
+<Scripture passage="Revelation 21:5" /> <Scripture passage="Romans 8:18-25" />
 
 </Declaration>
 

@@ -34,7 +34,7 @@ that in Christ the dividing walls are broken: the Church is one new humanity,
 entrusted with the ministry of reconciliation. We renounce partiality, hatred,
 and the dehumanizing of any person by race, nationality, or status.
 
-<Scripture ref="Acts 17:26" /> <Scripture ref="Ephesians 2:14-16" />
+<Scripture passage="Acts 17:26" /> <Scripture passage="Ephesians 2:14-16" />
 
 </Declaration>
 
@@ -62,7 +62,7 @@ gospel clarity as mere policy.
 Humanity is one family, made by one God from one source — there is no biblical
 basis for ranking races.
 
-<Scripture ref="Acts 17:26">
+<Scripture passage="Acts 17:26">
 From one man he made all the nations, that they should inhabit the whole earth;
 and he marked out their appointed times in history and the boundaries of their
 lands.
@@ -70,27 +70,27 @@ lands.
 
 To show favoritism — by race, class, or status — is named as sin.
 
-<Scripture ref="James 2:1-9" /> <Scripture ref="Acts 10:34-35" />
+<Scripture passage="James 2:1-9" /> <Scripture passage="Acts 10:34-35" />
 
 God's people, themselves once strangers in Egypt, are commanded to love the
 foreigner as native-born; and the Lord himself defends the sojourner.
 
-<Scripture ref="Leviticus 19:33-34" /> <Scripture ref="Deuteronomy 10:18-19" />
+<Scripture passage="Leviticus 19:33-34" /> <Scripture passage="Deuteronomy 10:18-19" />
 
 Jesus himself was a refugee child, carried to Egypt to escape a murderous king,
 and he teaches that how we treat the stranger is how we treat him.
 
-<Scripture ref="Matthew 2:13-15" /> <Scripture ref="Matthew 25:35" />
+<Scripture passage="Matthew 2:13-15" /> <Scripture passage="Matthew 25:35" />
 
 Above all, the cross destroys the dividing wall of hostility, making one new
 people, and hands the Church a ministry of reconciliation.
 
-<Scripture ref="Ephesians 2:14-16" /> <Scripture ref="2 Corinthians 5:18-20" />
+<Scripture passage="Ephesians 2:14-16" /> <Scripture passage="2 Corinthians 5:18-20" />
 
 And the end of the story is a worshiping multitude from every nation, tribe, and
 language — the future toward which the Church already lives.
 
-<Scripture ref="Revelation 7:9-10" />
+<Scripture passage="Revelation 7:9-10" />
 
 ## Discern
 
@@ -127,7 +127,7 @@ here in principle, while differing on specifics.
 
 ::: warning Where there is no debate
 On race, do not let "discernment" blur the clear word: **partiality and racism
-are sin** (<Scripture ref="James 2:9" />). Christians may argue in good faith
+are sin** (<Scripture passage="James 2:9" />). Christians may argue in good faith
 about the best *remedies* for injustice; no Christian may treat any race as less
 than fully image-bearing. The same holds for migrants: we may debate policy, but
 we may never debate the dignity of the human being seeking refuge.
@@ -150,9 +150,9 @@ we may never debate the dignity of the human being seeking refuge.
 <SelfCheck q="Why is racism not merely a social or political issue but a spiritual one?">
 
 Because all people descend from one source and bear God's image
-(<Scripture ref="Acts 17:26" />), so to despise a person by race is to despise
+(<Scripture passage="Acts 17:26" />), so to despise a person by race is to despise
 their Maker. Scripture explicitly names favoritism as sin
-(<Scripture ref="James 2:9" />). Racism therefore contradicts both the doctrine
+(<Scripture passage="James 2:9" />). Racism therefore contradicts both the doctrine
 of creation (one human family) and the gospel (one new humanity in Christ) — it
 is a spiritual matter, not just a policy preference.
 

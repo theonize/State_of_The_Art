@@ -32,7 +32,7 @@ workers and the vulnerable, and the pursuit of the common good — and we renoun
 both the love of money and every gospel that promises God's blessing as material
 wealth.
 
-<Scripture ref="Matthew 6:24" /> <Scripture ref="1 Timothy 6:9-10" />
+<Scripture passage="Matthew 6:24" /> <Scripture passage="1 Timothy 6:9-10" />
 
 </Declaration>
 
@@ -56,33 +56,33 @@ ignoring the beggar at your gate.
 
 The heart of the matter is a question of lordship: God or money.
 
-<Scripture ref="Matthew 6:24" />
+<Scripture passage="Matthew 6:24" />
 
 God identifies with the poor so closely that to oppress them is to insult him,
 and to be generous to them is to lend to him.
 
-<Scripture ref="Proverbs 14:31" /> <Scripture ref="Proverbs 19:17" />
+<Scripture passage="Proverbs 14:31" /> <Scripture passage="Proverbs 19:17" />
 
 The Law built in structural mercy — gleaning, debt release, the open hand — so
 that poverty would not become permanent bondage.
 
-<Scripture ref="Deuteronomy 15:7-11" /> <Scripture ref="Leviticus 19:9-10" />
+<Scripture passage="Deuteronomy 15:7-11" /> <Scripture passage="Leviticus 19:9-10" />
 
 Jesus warned that wealth can choke the soul, told a rich fool he had stored up
 the wrong treasure, and called his people to radical generosity and trust.
 
-<Scripture ref="Luke 12:15-21" /> <Scripture ref="Luke 16:19-31" />
+<Scripture passage="Luke 12:15-21" /> <Scripture passage="Luke 16:19-31" />
 
 The early church responded to grace with extraordinary sharing, so that "there
 were no needy persons among them."
 
-<Scripture ref="Acts 4:32-35" /> <Scripture ref="2 Corinthians 9:6-8" />
+<Scripture passage="Acts 4:32-35" /> <Scripture passage="2 Corinthians 9:6-8" />
 
 And James thunders against the rich who defraud their workers, while Paul
 prescribes contentment and open-handed generosity as the antidote to the love of
 money.
 
-<Scripture ref="James 5:1-6" /> <Scripture ref="1 Timothy 6:17-19" />
+<Scripture passage="James 5:1-6" /> <Scripture passage="1 Timothy 6:17-19" />
 
 ## Discern
 
@@ -122,7 +122,7 @@ questions of public justice.
 Scripture's sharpest economic warnings are aimed not at "the system" but at *us*:
 *Where is my treasure? Whom does my money serve? Is there anyone poor at my gate
 I have trained myself not to see?* We can debate policy endlessly while avoiding
-the question Jesus actually asks (<Scripture ref="Matthew 6:21" />).
+the question Jesus actually asks (<Scripture passage="Matthew 6:21" />).
 :::
 
 ## Reflect
@@ -143,8 +143,8 @@ the question Jesus actually asks (<Scripture ref="Matthew 6:21" />).
 
 Because money competes with God for the throne of the heart. Jesus personifies
 it as a rival master — "you cannot serve both God and money"
-(<Scripture ref="Matthew 6:24" />) — and Paul warns that "the love of money is a
-root of all kinds of evil" (<Scripture ref="1 Timothy 6:10" />). Wealth is not
+(<Scripture passage="Matthew 6:24" />) — and Paul warns that "the love of money is a
+root of all kinds of evil" (<Scripture passage="1 Timothy 6:10" />). Wealth is not
 evil in itself, but it powerfully tempts us to idolatry, self-reliance, and
 indifference to the poor.
 
@@ -154,10 +154,10 @@ indifference to the poor.
 
 It inverts the gospel: it makes God a means to wealth rather than wealth a means
 to serve God and neighbor. It contradicts Jesus' warnings about riches and his
-blessing on the poor (<Scripture ref="Luke 6:20-25" />), it often manipulates
+blessing on the poor (<Scripture passage="Luke 6:20-25" />), it often manipulates
 the vulnerable, and it implies the poor lack faith — adding shame to suffering.
 True faith may bring plenty or want; Paul learned contentment in both
-(<Scripture ref="Philippians 4:11-13" />).
+(<Scripture passage="Philippians 4:11-13" />).
 
 </SelfCheck>
 

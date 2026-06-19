@@ -31,7 +31,7 @@ stranger. We affirm human rights as an expression of these God-given duties —
 and we reject any "rights" that are merely the strong asserting power over the
 weak.
 
-<Scripture ref="Proverbs 31:8-9" /> <Scripture ref="Isaiah 1:17" />
+<Scripture passage="Proverbs 31:8-9" /> <Scripture passage="Isaiah 1:17" />
 
 </Declaration>
 
@@ -58,7 +58,7 @@ living God in whose image we are made.
 Long before the phrase "human rights" existed, Scripture commanded God's people
 to defend the rights of the vulnerable as a matter of justice, not charity.
 
-<Scripture ref="Proverbs 31:8-9">
+<Scripture passage="Proverbs 31:8-9">
 Speak up for those who cannot speak for themselves, for the rights of all who
 are destitute. Speak up and judge fairly; defend the rights of the poor and
 needy.
@@ -67,18 +67,18 @@ needy.
 God identifies himself as the defender of those the world tramples, and he
 commands his people to imitate him.
 
-<Scripture ref="Psalm 82:3-4" /> <Scripture ref="Deuteronomy 10:18-19" />
+<Scripture passage="Psalm 82:3-4" /> <Scripture passage="Deuteronomy 10:18-19" />
 
 True religion, in the New Testament's terms, shows up as concrete care for the
 defenseless.
 
-<Scripture ref="James 1:27" />
+<Scripture passage="James 1:27" />
 
 And the prophets insist that worship God will not accept if it coexists with
 injustice — a sobering word for any church that sings on Sunday and exploits on
 Monday.
 
-<Scripture ref="Amos 5:21-24" />
+<Scripture passage="Amos 5:21-24" />
 
 ## Discern
 
@@ -137,7 +137,7 @@ God.
 A **foundation**. Secular thought asserts that humans have inviolable worth but
 struggles to say *why*. Christianity grounds that worth in the Creator: we are
 made in God's image, so our dignity is intrinsic, equal, and beyond any
-government's power to grant or revoke (<Scripture ref="Genesis 1:27" />).
+government's power to grant or revoke (<Scripture passage="Genesis 1:27" />).
 
 </SelfCheck>
 
@@ -146,7 +146,7 @@ government's power to grant or revoke (<Scripture ref="Genesis 1:27" />).
 When it is severed from its foundation and becomes pure self-assertion — *my*
 autonomy against my neighbor — rather than a shared duty to honor the dignity
 God gave everyone. Scripture's "rights" language always defends the **weak**
-against the strong, not the strong against the weak (<Scripture ref="Proverbs 31:8-9" />).
+against the strong, not the strong against the weak (<Scripture passage="Proverbs 31:8-9" />).
 
 </SelfCheck>
 

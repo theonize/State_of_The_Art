@@ -41,17 +41,17 @@ type is saved **privately in your own browser** on this device.
 We declare that this book is a tool, not an authority. **Test everything;
 hold fast to what is good** — measuring every claim here against Scripture.
 
-<Scripture ref="1 Thessalonians 5:21" />
+<Scripture passage="1 Thessalonians 5:21" />
 
 </Declaration>
 
 ### Scripture links
 
-Any reference like this one — <Scripture ref="John 1:1-5" /> — opens the full
+Any reference like this one — <Scripture passage="John 1:1-5" /> — opens the full
 passage at Bible Gateway in a new tab, where you can switch translations. Some
 passages also include the text inline:
 
-<Scripture ref="Micah 6:8">
+<Scripture passage="Micah 6:8">
 He has shown you, O mortal, what is good. And what does the LORD require of you?
 To act justly and to love mercy and to walk humbly with your God.
 </Scripture>
