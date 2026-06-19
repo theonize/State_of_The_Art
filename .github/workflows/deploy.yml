@@ -3,16 +3,14 @@
 # One-time repo setup (Settings → Pages):
 #   Build and deployment → Source → "GitHub Actions"
 #
-# After that, every push to `main` (or the working branch below) publishes
-# the site at https://theonize.github.io/State_of_The_Art/
+# After that, every push to `main` publishes the site at
+# https://theonize.github.io/State_of_The_Art/
 name: Deploy book to GitHub Pages
 
 on:
   push:
     branches:
       - main
-      # Working branch — lets the book deploy for preview before it is merged.
-      - claude/epic-lovelace-p64dgd
   # Allow manual runs from the Actions tab.
   workflow_dispatch:
 
