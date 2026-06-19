@@ -210,8 +210,7 @@ counsel, rather than weaponizing a verse or a slogan.
 
 ## Go deeper
 
-- **Read next:** Return to [The Declaration](/declaration), or revisit any
-  chapter — and track your progress on the [home page](/).
+- **Read next:** [Life & Death: Bioethics at the Edges](/issues/life-and-death).
 - **Connect back:** This chapter rests on
   [Made in the Image of God](/foundations/image-of-god) and the care for the
   vulnerable in [Power, Abuse & Accountability](/issues/power-and-abuse).

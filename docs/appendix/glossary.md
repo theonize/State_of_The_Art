@@ -20,6 +20,13 @@ The biblical tension that the Kingdom of God has **already** arrived in Jesus an
 is **not yet** fully consummated. We live in the overlap of the ages. See
 [The Kingdom of God](/foundations/kingdom).
 
+## Bearing false witness
+
+Lying about or misrepresenting another person — forbidden by the ninth
+commandment. In the digital age it includes spreading unverified claims,
+slander, and conspiracy. See
+[Truth, Misinformation & the Digital Age](/issues/truth).
+
 ## Christian nationalism
 
 An ideology that fuses Christian identity with national identity, seeking to
@@ -45,6 +52,12 @@ The calling, given at creation, for humanity to fill the earth and cultivate it 
 to develop the potential of God's world through work, family, art, and culture.
 Closely tied to "dominion" rightly understood.
 
+## Disinformation
+
+Falsehood spread deliberately to deceive or manipulate (as distinct from
+*misinformation*, which is shared without knowing it is false). See
+[Truth, Misinformation & the Digital Age](/issues/truth).
+
 ## Dominion
 
 In Genesis 1:28, the human vocation to rule creation — defined by Genesis 2:15
@@ -63,6 +76,19 @@ biblical creation mandate and critiqued in
 The study of "last things" — Christ's return, resurrection, judgment, and the
 renewal of all things. How one reads eschatology shapes one's view of the
 Kingdom's "already/not yet."
+
+## Euthanasia
+
+The intentional ending of a person's life to relieve suffering (and *assisted
+suicide*, helping someone end their own life). Distinguished from allowing a
+natural death by declining futile treatment. See
+[Life & Death](/issues/life-and-death).
+
+## Freedom of conscience
+
+The conviction that faith and belief cannot be coerced and must be freely held —
+the root of religious liberty for all people. See
+[Religious Liberty, Persecution & Pluralism](/issues/religious-liberty).
 
 ## Heresy
 
@@ -94,6 +120,12 @@ An Aramaic word for wealth or money, used by Jesus to personify riches as a riva
 master to God ("you cannot serve both God and Mammon"). See
 [Wealth, Poverty & the Common Good](/issues/wealth-and-poverty).
 
+## Martyr
+
+From the Greek for *witness* — one who suffers or dies rather than renounce their
+faith. The persecuted Church continues this witness today. See
+[Religious Liberty, Persecution & Pluralism](/issues/religious-liberty).
+
 ## Nationalism
 
 An ideology that elevates national (and often ethnic or religious) identity to an
@@ -105,6 +137,12 @@ love of one's country. See [Nationalism, Kingdom & Dominion](/issues/nationalism
 "Right belief." The faith confessed by the whole Church across time, summarized
 in the historic creeds. See [Heresy & Discernment](/issues/heresy).
 
+## Palliative care
+
+Medical and personal care that relieves pain and supports the dying without
+seeking to hasten death — the Christian alternative to euthanasia. See
+[Life & Death](/issues/life-and-death).
+
 ## Partiality
 
 Favoritism — judging or valuing people by race, wealth, or status. Scripture
@@ -115,6 +153,12 @@ names it as sin, because God himself shows no partiality. See
 
 Love of one's country, people, and heritage — a good and ordinary affection when
 held under God and open to self-criticism. Distinct from nationalism.
+
+## Pluralism
+
+A society in which many faiths and worldviews coexist. Christians engage it with
+both conviction and civility, defending freedom for all people. See
+[Religious Liberty, Persecution & Pluralism](/issues/religious-liberty).
 
 ## Prosperity gospel
 
@@ -140,6 +184,11 @@ See [The Rights & Protection of Children](/issues/childrens-rights) and
 Biblical rhythms of rest and release — for people, for the land, and for the
 indebted — that limit exploitation and witness to God's ownership of all things.
 See [Creation, Stewardship & Dominion](/issues/creation-care).
+
+## Sanctity of life
+
+The conviction that every human life bears God's image and inviolable dignity
+from conception to natural death. See [Life & Death](/issues/life-and-death).
 
 ## Solidarity
 

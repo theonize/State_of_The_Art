@@ -60,6 +60,21 @@ const chapters = [
     id: 'sexuality',
     title: 'Sexuality, Marriage & the Body',
     link: '/issues/sexuality'
+  },
+  {
+    id: 'life-and-death',
+    title: 'Life & Death: Bioethics at the Edges',
+    link: '/issues/life-and-death'
+  },
+  {
+    id: 'truth',
+    title: 'Truth, Misinformation & the Digital Age',
+    link: '/issues/truth'
+  },
+  {
+    id: 'religious-liberty',
+    title: 'Religious Liberty, Persecution & Pluralism',
+    link: '/issues/religious-liberty'
   }
 ]
 

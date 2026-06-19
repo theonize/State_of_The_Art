@@ -121,6 +121,18 @@ export default defineConfig({
           {
             text: '13. Sexuality, Marriage & the Body',
             link: '/issues/sexuality'
+          },
+          {
+            text: '14. Life & Death: Bioethics at the Edges',
+            link: '/issues/life-and-death'
+          },
+          {
+            text: '15. Truth, Misinformation & the Digital Age',
+            link: '/issues/truth'
+          },
+          {
+            text: '16. Religious Liberty, Persecution & Pluralism',
+            link: '/issues/religious-liberty'
           }
         ]
       },
