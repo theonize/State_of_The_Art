@@ -55,11 +55,12 @@ Deployment is automated with GitHub Actions
 to `main` (and to the working branch), the workflow builds the site and
 publishes it to GitHub Pages.
 
-The workflow **enables Pages automatically** on its first run (via the
-`enablement: true` input of `actions/configure-pages`, using the `pages: write`
-permission). If your organization restricts programmatic enablement, enable it
-once manually: **Settings → Pages → Build and deployment → Source → "GitHub
-Actions"**, then re-run the workflow.
+**Required one-time setup** (repo admin): enable Pages at **Settings → Pages →
+Build and deployment → Source → "GitHub Actions"**. This organization does not
+allow the workflow's token to enable Pages automatically, so it must be turned
+on once in the UI. After that, every push to the branch builds and deploys with
+no further action — re-run the latest workflow (Actions tab → latest run →
+"Re-run jobs") to publish immediately.
 
 ## Authoring new content
 
