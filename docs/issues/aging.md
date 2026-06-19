@@ -149,8 +149,7 @@ honor and presence, never outsourcing and forgetting.
 
 ## Go deeper
 
-- **Read next:** Return to [The Declaration](/declaration), or revisit any
-  chapter — and see your progress on the [home page](/).
+- **Read next:** [Crime, Prisons & Restorative Justice](/issues/justice-and-prisons).
 - **Connect back:** This chapter applies
   [Made in the Image of God](/foundations/image-of-god) and the dignity-beyond-
   productivity of [Work, Rest & Sabbath](/issues/work-and-rest).

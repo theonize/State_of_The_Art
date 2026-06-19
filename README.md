@@ -11,7 +11,7 @@ poverty, sexuality and the body, bioethics, truth and misinformation, religious
 liberty, suffering and mental health, war and peace, work and rest, marriage and
 family, death and Christian hope, church unity, science and faith, worship and
 formation, women in ministry, addiction and recovery, disability, mission and
-evangelism, and aging.
+evangelism, aging, criminal justice, and the arts.
 
 It is written from a **broadly ecumenical Christian** perspective, declaring
 plainly where Scripture is plain and presenting multiple faithful views where
@@ -28,7 +28,7 @@ The book is published to GitHub Pages:
 - **The Declaration** — a preamble and articles confessing what the Church can
   hold together.
 - **Foundations** — the Kingdom of God, and the image of God in every person.
-- **The Issues** — twenty-seven chapters on the questions of our age, each with
+- **The Issues** — twenty-nine chapters on the questions of our age, each with
   Scripture, multiple views, reflection prompts, and resources.
 - **Appendix** — a glossary and curated resources.
 

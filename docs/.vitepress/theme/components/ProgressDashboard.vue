@@ -120,7 +120,17 @@ const chapters = [
     title: 'Mission & Evangelism in a Post-Christian Age',
     link: '/issues/mission-and-evangelism'
   },
-  { id: 'aging', title: 'Aging, Honor & the Elderly', link: '/issues/aging' }
+  { id: 'aging', title: 'Aging, Honor & the Elderly', link: '/issues/aging' },
+  {
+    id: 'justice-and-prisons',
+    title: 'Crime, Prisons & Restorative Justice',
+    link: '/issues/justice-and-prisons'
+  },
+  {
+    id: 'beauty-and-arts',
+    title: 'Beauty, the Arts & Imagination',
+    link: '/issues/beauty-and-arts'
+  }
 ]
 
 const STORE = 'sota:progress:v1'

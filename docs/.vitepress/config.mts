@@ -170,7 +170,15 @@ export default defineConfig({
             text: '28. Mission & Evangelism in a Post-Christian Age',
             link: '/issues/mission-and-evangelism'
           },
-          { text: '29. Aging, Honor & the Elderly', link: '/issues/aging' }
+          { text: '29. Aging, Honor & the Elderly', link: '/issues/aging' },
+          {
+            text: '30. Crime, Prisons & Restorative Justice',
+            link: '/issues/justice-and-prisons'
+          },
+          {
+            text: '31. Beauty, the Arts & Imagination',
+            link: '/issues/beauty-and-arts'
+          }
         ]
       },
       {

@@ -40,6 +40,12 @@ The conditions that allow all members of a community to flourish. A central idea
 in Catholic social teaching and broader Christian ethics. See
 [Human Rights](/issues/human-rights).
 
+## Common grace
+
+God's goodness shown to all people — sustaining the world and enabling truth,
+beauty, and good even outside the Church. See
+[Beauty, the Arts & Imagination](/issues/beauty-and-arts).
+
 ## Complementarianism
 
 The view that women and men have equal worth but are called to some distinct,
@@ -245,11 +251,23 @@ The restoration of broken relationship — between God and humanity, and between
 estranged people — which the New Testament entrusts to the Church as a "ministry
 of reconciliation." See [The Neighbor](/issues/neighbor).
 
+## Restorative justice
+
+An approach to justice that aims to repair harm — making victims whole and
+restoring offenders and community — rather than only inflicting punishment. See
+[Crime, Prisons & Restorative Justice](/issues/justice-and-prisons).
+
 ## Resurrection
 
 The bodily raising of the dead to new life — Christ's own as the firstfruits, and
 the future hope of all who are his, in a renewed creation. See
 [Death, Grief & Christian Hope](/issues/death-and-hope).
+
+## Retributive justice
+
+An approach to justice focused on punishment proportional to the offense.
+Scripture holds genuine accountability together with mercy and restoration. See
+[Crime, Prisons & Restorative Justice](/issues/justice-and-prisons).
 
 ## Safeguarding
 
