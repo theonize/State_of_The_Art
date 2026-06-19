@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: Begin with the Kingdom
       link: /foundations/kingdom
+    - theme: alt
+      text: Plan a Group Study
+      link: /guide/study-plan
 
 features:
   - icon: ✝️
@@ -30,9 +33,10 @@ features:
 
 ## Where to begin
 
-This is a working book — meant to be read slowly, argued with, prayed over, and
-discussed in community. You do not have to read it in order, but the two
-**Foundations** chapters set the lens for everything else.
+This is a working book — thirty-one chapters meant to be read slowly, argued
+with, prayed over, and discussed in community. You do not have to read it in
+order, but the two **Foundations** chapters set the lens for everything else.
+Studying with others? Follow the [**Group Study Plan**](/guide/study-plan).
 
 Each chapter wears three hats, marked throughout:
 
