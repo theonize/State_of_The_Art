@@ -107,7 +107,20 @@ const chapters = [
     id: 'worship-and-formation',
     title: 'Worship, Formation & the Consumer Church',
     link: '/issues/worship-and-formation'
-  }
+  },
+  { id: 'women-and-ministry', title: 'Women, Men & Ministry', link: '/issues/women-and-ministry' },
+  {
+    id: 'addiction-and-recovery',
+    title: 'Addiction, Recovery & Grace',
+    link: '/issues/addiction-and-recovery'
+  },
+  { id: 'disability', title: 'Disability & the Church', link: '/issues/disability' },
+  {
+    id: 'mission-and-evangelism',
+    title: 'Mission & Evangelism in a Post-Christian Age',
+    link: '/issues/mission-and-evangelism'
+  },
+  { id: 'aging', title: 'Aging, Honor & the Elderly', link: '/issues/aging' }
 ]
 
 const STORE = 'sota:progress:v1'

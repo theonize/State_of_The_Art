@@ -40,6 +40,12 @@ The conditions that allow all members of a community to flourish. A central idea
 in Catholic social teaching and broader Christian ethics. See
 [Human Rights](/issues/human-rights).
 
+## Complementarianism
+
+The view that women and men have equal worth but are called to some distinct,
+complementary roles, with certain church and home leadership offices reserved for
+men. Contrast *egalitarianism*. See [Women, Men & Ministry](/issues/women-and-ministry).
+
 ## Covenant
 
 A binding, relational promise — the form of God's commitment to his people, and
@@ -83,6 +89,12 @@ The pursuit of greater unity and cooperation among Christian churches and
 traditions, ideally in both truth and love. See
 [The Unity & Division of the Church](/issues/church-unity).
 
+## Egalitarianism
+
+The view that the Spirit gives gifts and callings without regard to gender, so
+women may serve in every role, including church leadership. Contrast
+*complementarianism*. See [Women, Men & Ministry](/issues/women-and-ministry).
+
 ## Eschatology
 
 The study of "last things" — Christ's return, resurrection, judgment, and the
@@ -95,6 +107,12 @@ The intentional ending of a person's life to relieve suffering (and *assisted
 suicide*, helping someone end their own life). Distinguished from allowing a
 natural death by declining futile treatment. See
 [Life & Death](/issues/life-and-death).
+
+## Evangelism
+
+Sharing the good news of Jesus — by invitation, in word and deed, with gentleness
+and respect — never by coercion or manipulation. See
+[Mission & Evangelism in a Post-Christian Age](/issues/mission-and-evangelism).
 
 ## Formation
 
@@ -162,6 +180,12 @@ master to God ("you cannot serve both God and Mammon"). See
 From the Greek for *witness* — one who suffers or dies rather than renounce their
 faith. The persecuted Church continues this witness today. See
 [Religious Liberty, Persecution & Pluralism](/issues/religious-liberty).
+
+## Mission (missio Dei)
+
+Latin for *the mission of God* — the conviction that mission is first God's own
+work of redeeming the world, into which the Church is sent. See
+[Mission & Evangelism in a Post-Christian Age](/issues/mission-and-evangelism).
 
 ## Nationalism
 

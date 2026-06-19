@@ -154,9 +154,7 @@ the table, and the body of Christ, not by the market.
 
 ## Go deeper
 
-- **Read next:** Return to [The Declaration](/declaration) — and see how far
-  you've come on the [home page](/). This is the final chapter of the first
-  edition.
+- **Read next:** [Women, Men & Ministry](/issues/women-and-ministry).
 - **Connect back:** This chapter answers the counter-formation of
   [Technology, AI & the Human Person](/issues/technology) and gathers up the
   whole book's call to seek first [the Kingdom](/foundations/kingdom).

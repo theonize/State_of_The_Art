@@ -159,7 +159,18 @@ export default defineConfig({
           {
             text: '24. Worship, Formation & the Consumer Church',
             link: '/issues/worship-and-formation'
-          }
+          },
+          { text: '25. Women, Men & Ministry', link: '/issues/women-and-ministry' },
+          {
+            text: '26. Addiction, Recovery & Grace',
+            link: '/issues/addiction-and-recovery'
+          },
+          { text: '27. Disability & the Church', link: '/issues/disability' },
+          {
+            text: '28. Mission & Evangelism in a Post-Christian Age',
+            link: '/issues/mission-and-evangelism'
+          },
+          { text: '29. Aging, Honor & the Elderly', link: '/issues/aging' }
         ]
       },
       {
