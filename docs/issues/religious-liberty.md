@@ -158,8 +158,7 @@ rather than Caesar.
 
 ## Go deeper
 
-- **Read next:** Return to [The Declaration](/declaration), or revisit any
-  chapter — and track your progress on the [home page](/).
+- **Read next:** [Suffering, Mental Health & Lament](/issues/suffering).
 - **Connect back:** This chapter completes the political-theology thread begun in
   [Nationalism, Kingdom & Dominion](/issues/nationalism-kingdom-dominion) and the
   [public witness](/issues/advocacy) of the Church.

@@ -133,6 +133,19 @@ export default defineConfig({
           {
             text: '16. Religious Liberty, Persecution & Pluralism',
             link: '/issues/religious-liberty'
+          },
+          {
+            text: '17. Suffering, Mental Health & Lament',
+            link: '/issues/suffering'
+          },
+          {
+            text: '18. War, Peace & the Use of Force',
+            link: '/issues/war-and-peace'
+          },
+          { text: '19. Work, Rest & Sabbath', link: '/issues/work-and-rest' },
+          {
+            text: '20. Marriage, Family & Singleness',
+            link: '/issues/marriage-and-family'
           }
         ]
       },

@@ -40,6 +40,12 @@ The conditions that allow all members of a community to flourish. A central idea
 in Catholic social teaching and broader Christian ethics. See
 [Human Rights](/issues/human-rights).
 
+## Covenant
+
+A binding, relational promise — the form of God's commitment to his people, and
+the biblical pattern for marriage. More than a contract; a bond of steadfast
+love. See [Marriage, Family & Singleness](/issues/marriage-and-family).
+
 ## Creed
 
 A short, authoritative summary of Christian belief. The **Apostles' Creed** and
@@ -108,11 +114,24 @@ Latin for "image of God." The teaching that every human being reflects God and
 bears an inviolable, God-given dignity. The foundation of the book's view of
 human worth. See [Made in the Image of God](/foundations/image-of-god).
 
+## Just war
+
+The tradition holding that force may be used only as a last resort and under
+strict moral criteria (just cause, legitimate authority, right intention,
+proportionality, protection of non-combatants) — meant to restrain war, not to
+justify it. See [War, Peace & the Use of Force](/issues/war-and-peace).
+
 ## Kingdom of God
 
 God's reign in Christ — already present and not yet complete — which transcends
 and judges every nation and cannot be identified with any human power. See
 [The Kingdom of God](/foundations/kingdom).
+
+## Lament
+
+Honest grief and complaint brought to God — modeled in roughly a third of the
+Psalms and on Jesus' lips at the cross. A faithful way to be truthful about pain.
+See [Suffering, Mental Health & Lament](/issues/suffering).
 
 ## Mammon
 
@@ -137,6 +156,12 @@ love of one's country. See [Nationalism, Kingdom & Dominion](/issues/nationalism
 "Right belief." The faith confessed by the whole Church across time, summarized
 in the historic creeds. See [Heresy & Discernment](/issues/heresy).
 
+## Pacifism / nonviolence
+
+The conviction that following Jesus means renouncing lethal force and witnessing
+to peace — held by the early Church and the historic peace churches. See
+[War, Peace & the Use of Force](/issues/war-and-peace).
+
 ## Palliative care
 
 Medical and personal care that relieves pain and supports the dying without
@@ -153,6 +178,12 @@ names it as sin, because God himself shows no partiality. See
 
 Love of one's country, people, and heritage — a good and ordinary affection when
 held under God and open to self-criticism. Distinct from nationalism.
+
+## Peacemaking
+
+The active pursuit of reconciliation and just peace — blessed by Jesus as a mark
+of God's children — distinct from mere passivity or the absence of conflict. See
+[War, Peace & the Use of Force](/issues/war-and-peace).
 
 ## Pluralism
 
@@ -212,6 +243,12 @@ The principle that matters should be handled by the smallest or most local
 competent authority — families and communities first — with larger bodies
 assisting rather than absorbing them.
 
+## Theodicy
+
+The attempt to understand how a good and all-powerful God can permit suffering
+and evil. Approached in Scripture with both reasoning and deep humility (as in
+Job). See [Suffering, Mental Health & Lament](/issues/suffering).
+
 ## Theonomy
 
 The view that the civil laws of the Old Testament should, in some form, govern
@@ -229,3 +266,9 @@ biological limits — including aging and death. Examined critically in
 The view that God rules the civil realm and the Church in distinct ways, so that
 the two should not be collapsed into each other. One of several Christian
 political theologies. See [Nationalism, Kingdom & Dominion](/issues/nationalism-kingdom-dominion).
+
+## Vocation
+
+From the Latin for *calling* — the conviction that all honest work and every
+station of life can be a calling from God to serve him and neighbor, not only
+"religious" work. See [Work, Rest & Sabbath](/issues/work-and-rest).

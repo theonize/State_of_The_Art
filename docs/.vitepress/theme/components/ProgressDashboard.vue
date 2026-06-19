@@ -75,6 +75,22 @@ const chapters = [
     id: 'religious-liberty',
     title: 'Religious Liberty, Persecution & Pluralism',
     link: '/issues/religious-liberty'
+  },
+  {
+    id: 'suffering',
+    title: 'Suffering, Mental Health & Lament',
+    link: '/issues/suffering'
+  },
+  {
+    id: 'war-and-peace',
+    title: 'War, Peace & the Use of Force',
+    link: '/issues/war-and-peace'
+  },
+  { id: 'work-and-rest', title: 'Work, Rest & Sabbath', link: '/issues/work-and-rest' },
+  {
+    id: 'marriage-and-family',
+    title: 'Marriage, Family & Singleness',
+    link: '/issues/marriage-and-family'
   }
 ]
 

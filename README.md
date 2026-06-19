@@ -7,8 +7,9 @@ information portal* — on the issues pressing on the people of God: human digni
 and human rights, the protection of children, nationalism and the Kingdom of
 God, advocacy and public witness, heresy and discernment, power and
 accountability, creation care, technology and AI, race and migration, wealth and
-poverty, sexuality and the body, bioethics, truth and misinformation, and
-religious liberty.
+poverty, sexuality and the body, bioethics, truth and misinformation, religious
+liberty, suffering and mental health, war and peace, work and rest, and marriage
+and family.
 
 It is written from a **broadly ecumenical Christian** perspective, declaring
 plainly where Scripture is plain and presenting multiple faithful views where
@@ -25,7 +26,7 @@ The book is published to GitHub Pages:
 - **The Declaration** — a preamble and articles confessing what the Church can
   hold together.
 - **Foundations** — the Kingdom of God, and the image of God in every person.
-- **The Issues** — fourteen chapters on the questions of our age, each with
+- **The Issues** — eighteen chapters on the questions of our age, each with
   Scripture, multiple views, reflection prompts, and resources.
 - **Appendix** — a glossary and curated resources.
 
