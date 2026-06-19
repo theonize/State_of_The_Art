@@ -88,6 +88,12 @@ God's reign in Christ — already present and not yet complete — which transce
 and judges every nation and cannot be identified with any human power. See
 [The Kingdom of God](/foundations/kingdom).
 
+## Mammon
+
+An Aramaic word for wealth or money, used by Jesus to personify riches as a rival
+master to God ("you cannot serve both God and Mammon"). See
+[Wealth, Poverty & the Common Good](/issues/wealth-and-poverty).
+
 ## Nationalism
 
 An ideology that elevates national (and often ethnic or religious) identity to an
@@ -99,10 +105,28 @@ love of one's country. See [Nationalism, Kingdom & Dominion](/issues/nationalism
 "Right belief." The faith confessed by the whole Church across time, summarized
 in the historic creeds. See [Heresy & Discernment](/issues/heresy).
 
+## Partiality
+
+Favoritism — judging or valuing people by race, wealth, or status. Scripture
+names it as sin, because God himself shows no partiality. See
+[The Neighbor](/issues/neighbor).
+
 ## Patriotism
 
 Love of one's country, people, and heritage — a good and ordinary affection when
 held under God and open to self-criticism. Distinct from nationalism.
+
+## Prosperity gospel
+
+The teaching that faith reliably produces material wealth and health. Critiqued in
+this book as a distortion that makes God a means to riches and implies the poor
+lack faith. See [Wealth, Poverty & the Common Good](/issues/wealth-and-poverty).
+
+## Reconciliation
+
+The restoration of broken relationship — between God and humanity, and between
+estranged people — which the New Testament entrusts to the Church as a "ministry
+of reconciliation." See [The Neighbor](/issues/neighbor).
 
 ## Safeguarding
 
@@ -126,6 +150,12 @@ we belong to one another. A key principle of Christian social ethics.
 
 Caring for what belongs to another and giving an account for it. The biblical
 posture toward creation, resources, power, and gifts.
+
+## Stranger (sojourner)
+
+The foreigner or migrant living among God's people. Scripture repeatedly commands
+love and justice for the stranger, recalling that Israel was once enslaved in a
+foreign land. See [The Neighbor](/issues/neighbor).
 
 ## Subsidiarity
 

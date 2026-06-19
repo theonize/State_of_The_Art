@@ -157,8 +157,7 @@ not self-made immortality (<Scripture ref="1 Corinthians 15:42-44" />).
 
 ## Go deeper
 
-- **Read next:** Return to [The Declaration](/declaration), or revisit any
-  chapter — and mark your progress on the [home page](/).
+- **Read next:** [The Neighbor: Race, Migration & Reconciliation](/issues/neighbor).
 - **Connect:** This chapter draws on
   [Made in the Image of God](/foundations/image-of-god),
   [the protection of children](/issues/childrens-rights), and

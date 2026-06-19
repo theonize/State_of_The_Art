@@ -109,6 +109,18 @@ export default defineConfig({
           {
             text: '10. Technology, AI & the Human Person',
             link: '/issues/technology'
+          },
+          {
+            text: '11. The Neighbor: Race, Migration & Reconciliation',
+            link: '/issues/neighbor'
+          },
+          {
+            text: '12. Wealth, Poverty & the Common Good',
+            link: '/issues/wealth-and-poverty'
+          },
+          {
+            text: '13. Sexuality, Marriage & the Body',
+            link: '/issues/sexuality'
           }
         ]
       },

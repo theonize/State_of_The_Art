@@ -45,6 +45,21 @@ const chapters = [
     id: 'technology',
     title: 'Technology, AI & the Human Person',
     link: '/issues/technology'
+  },
+  {
+    id: 'neighbor',
+    title: 'The Neighbor: Race, Migration & Reconciliation',
+    link: '/issues/neighbor'
+  },
+  {
+    id: 'wealth-and-poverty',
+    title: 'Wealth, Poverty & the Common Good',
+    link: '/issues/wealth-and-poverty'
+  },
+  {
+    id: 'sexuality',
+    title: 'Sexuality, Marriage & the Body',
+    link: '/issues/sexuality'
   }
 ]
 
