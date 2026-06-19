@@ -52,6 +52,7 @@ export default defineConfig({
         text: 'The Book',
         items: [
           { text: 'How to Use This Book', link: '/guide/how-to-use' },
+          { text: 'Group Study Plan', link: '/guide/study-plan' },
           { text: 'Foundations', link: '/foundations/kingdom' },
           { text: 'The Issues', link: '/issues/human-rights' }
         ]
@@ -66,7 +67,8 @@ export default defineConfig({
         items: [
           { text: 'Welcome', link: '/' },
           { text: 'The Declaration', link: '/declaration' },
-          { text: 'How to Use This Book', link: '/guide/how-to-use' }
+          { text: 'How to Use This Book', link: '/guide/how-to-use' },
+          { text: 'Group Study Plan', link: '/guide/study-plan' }
         ]
       },
       {
