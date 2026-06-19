@@ -123,16 +123,9 @@ At the end of each chapter, mark it complete. Your progress appears on the
 ## For groups and classes
 
 Each chapter's **Reflect** prompts and **Discern** sections double as discussion
-questions. A simple six-to-eight week plan:
-
-1. The Declaration + Foundations (Kingdom, Image of God)
-2. Human Rights & the Rights of Children
-3. Nationalism, Kingdom & Dominion
-4. Advocacy & Public Witness
-5. Heresy, Orthodoxy & Discernment
-6. Power, Abuse & Accountability
-7. Creation Care & Technology
-8. Review: *What does the Lord require of us?*
+questions. For ready-made paths through the book — a full thirteen-session
+journey and a shorter eight-session core track — see the
+[**Group Study Plan**](/guide/study-plan).
 
 > **Ready?** Begin with [**The Kingdom of God**](/foundations/kingdom) — the lens
 > for everything that follows.

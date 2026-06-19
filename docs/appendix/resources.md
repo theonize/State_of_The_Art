@@ -86,12 +86,44 @@ research, not an endorsement; investigate any organization before supporting it.
 **Creation care**
 - [A Rocha](https://arocha.org/) — Christian conservation and creation care.
 
+**Mental health & crisis support**
+
+::: warning In an emergency
+If you or someone you know is in immediate danger or crisis, contact your local
+emergency number now. In the US, call or text **988** (Suicide & Crisis
+Lifeline); in the UK and Ireland, **Samaritans** at 116 123. Most countries have
+a crisis line — please reach out, and tell someone you trust.
+:::
+- [Christian Counseling & Educational Foundation (CCEF)](https://www.ccef.org/)
+  and the [American Association of Christian Counselors](https://www.aacc.net/)
+  — help finding biblically grounded counseling.
+
+**Addiction & recovery**
+- [Celebrate Recovery](https://www.celebraterecovery.com/) — a Christ-centered
+  recovery program hosted by many churches.
+- [Alcoholics Anonymous](https://www.aa.org/) and related twelve-step
+  fellowships.
+
+**Disability & the church**
+- [Joni and Friends](https://www.joniandfriends.org/) — disability ministry,
+  advocacy, and resources for congregations.
+
+**Prison ministry & restorative justice**
+- [Prison Fellowship](https://www.prisonfellowship.org/) and
+  [Prison Fellowship International](https://pfi.org/) — serving prisoners,
+  former prisoners, victims, and their families.
+
+**Life, illness & end-of-life care**
+- Local **hospice and palliative care** services for the dying and their
+  families, and local **pregnancy-support, foster, and adoption** ministries for
+  vulnerable mothers and children.
+
 ## How to use this book in a group
 
-See the suggested study plan on the
-[How to Use This Book](/guide/how-to-use#for-groups-and-classes) page. Each
-chapter's **Reflect** prompts and **Discern** sections work directly as
-discussion questions.
+See the [**Group Study Plan**](/guide/study-plan) for a full thirteen-session
+journey and a shorter eight-session track through the book. Each chapter's
+**Reflect** prompts and **Discern** sections work directly as discussion
+questions.
 
 ---
 
